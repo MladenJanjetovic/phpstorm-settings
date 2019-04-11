@@ -40,7 +40,6 @@
   </action>
   <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
-    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
