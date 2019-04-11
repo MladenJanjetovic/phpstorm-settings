@@ -102,6 +102,9 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodHierarchy" />
   <action id="MethodUp" />
