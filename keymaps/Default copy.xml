@@ -12,6 +12,9 @@
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneColumn" />
   <action id="Console.TableResult.CloneRow" />
