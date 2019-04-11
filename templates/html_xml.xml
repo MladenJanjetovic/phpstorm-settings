@@ -1,0 +1,23 @@
+<templateSet group="html/xml">
+  <template name="if" value="&lt;?php if($END$): ?&gt;&#10;    &#10;&lt;?php endif ?&gt;" description="Add PHP IF in html" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="foreach" value="&lt;?php foreach($END$ as $key =&gt; $value): ?&gt;&#10;    &#10;&lt;?php endforeach ?&gt;" description="Add PHP foreach()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="php" value="&lt;?php $END$ ?&gt;" description="Add PHP block" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="echo" value="&lt;?php echo $END$; ?&gt;" description="php into code" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+      <option name="PHP" value="false" />
+    </context>
+  </template>
+</templateSet>
