@@ -3,7 +3,7 @@
     <property name="created">2017-12-08T13:42:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-08-20T10:40:46</property>
+    <property name="modified">2019-08-27T13:52:24</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -709,7 +709,7 @@
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="e3e3ff" />
+        <option name="FOREGROUND" value="b5b5d1" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1086,11 +1086,6 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
-    <option name="REST.BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="f92672" />
@@ -1114,11 +1109,6 @@
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="4d5d3d" />
-      </value>
-    </option>
-    <option name="REST.ITALIC">
-      <value>
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="REST.LINE_COMMENT">
