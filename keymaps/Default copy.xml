@@ -181,7 +181,7 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="WD.UploadCurrentRemoteFileAction">
-    <keyboard-shortcut first-keystroke="meta s" second-keystroke="meta s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.JumpToSource">
