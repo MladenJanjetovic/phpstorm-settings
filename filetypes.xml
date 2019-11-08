@@ -8,6 +8,7 @@
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="db" type="SQL" />
       <mapping ext="liquid" type="Twig" />
+      <mapping ext="loquid" type="Twig" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
