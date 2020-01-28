@@ -129,6 +129,9 @@
   <action id="MethodUp" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
+  </action>
   <action id="ParameterInfo" />
   <action id="PasteMultiple" />
   <action id="QuickImplementations">
