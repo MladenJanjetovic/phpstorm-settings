@@ -57,7 +57,7 @@
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
         </PlaceSettings>
       </entry>
       <entry key="Default">
@@ -77,7 +77,6 @@
       <entry key="VcsLogView">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
-          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
